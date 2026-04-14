@@ -1,6 +1,8 @@
 
 ## Hi there 👋
 <img src="https://tenor.com/igKgcgKFH6n.gif" width="100%"/>
+
+<img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=20&center=true&vCenter=true&width=500&lines=Flutter+Developer;Still+Learning;Building+Something+Cool"/>
 <!--
 **hanzic-in/hanzic-in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
