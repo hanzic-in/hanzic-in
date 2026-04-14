@@ -1,4 +1,4 @@
-<img src="https://tenor.com/igKgcgKFH6n.gif" width="100%"/>
+<img src="[https://tenor.com/igKgcgKFH6n.gif](https://tenor.com/id/view/chisa-wuthering-waves-anime-red-eyes-red-gif-6803498939349731493)" width="100%"/>
 ## Hi there 👋
 
 <!--
