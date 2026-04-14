@@ -1,6 +1,6 @@
-<img src="![https://tenor.com/igKgcgKFH6n.gif](https://tenor.com/id/view/chisa-wuthering-waves-anime-red-eyes-red-gif-6803498939349731493)" width="100%"/>
-## Hi there 👋
 
+## Hi there 👋
+<img src="https://tenor.com/igKgcgKFH6n.gif" width="100%"/>
 <!--
 **hanzic-in/hanzic-in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
