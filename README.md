@@ -47,3 +47,7 @@ I believe in learning through execution rather than theory. My journey is define
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31g3dlsq7bmiqhqbq3rshll75bjm&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=true&mode=dark&bar_color=FF2E63&bar_color_cover=true" />
   </a>
 </div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/hanzic-in/hanzic-in/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
