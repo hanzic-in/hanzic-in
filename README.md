@@ -15,10 +15,23 @@
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:FF2E63&height=100&section=header"/>
-  <img src="https://streak-stats.demolab.com?user=hanzic-in&theme=dark&background=0D1117&ring=FF2E63&fire=FF2E63&currStreakLabel=FF2E63&sideNums=FF2E63&sideLabels=FF2E63&dates=888888" width="49%"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hanzic-in&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF2E63&icon_color=FF2E63&text_color=FFFFFF" width="49%"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2E63,100:0D1117&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:FF2E63&height=80&section=header"/>
+
+  <div style="display: flex; justify-content: space-between;">
+    <img src="https://streak-stats.demolab.com?user=hanzic-in&theme=dark&background=0D1117&ring=FF2E63&fire=FF2E63&currStreakLabel=FF2E63&sideNums=FF2E63&sideLabels=FF2E63&dates=888888&hide_border=true" width="49%"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hanzic-in&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF2E63&icon_color=FF2E63&text_color=FFFFFF" width="49%"/>
+  </div>
+
+  <br />
+
+<div style="border-radius: 20px; overflow: hidden; background: #0D1117; width: 100%; box-shadow: 0 0 0 3px #FF2E63;">
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=hanzic-in&theme=react-dark&bg_color=0D1117&color=FF2E63&line=FF2E63&point=FF2E63&area=false&hide_border=false&height=300&animation=true" 
+  width="100%" 
+/>
+</div>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2E63,100:0D1117&height=80&section=footer"/>
 </div>
 
 ## //  About Me
@@ -46,8 +59,3 @@ I believe in learning through execution rather than theory. My journey is define
   </a>
 </div>
 
-<br />
-
-<div align="center">
-  <img src="" width="100%https://github-readme-activity-graph.vercel.app/graph?username=hanzic-in&theme=react-dark&bg_color=0D1117&color=FF2E63&line=FF2E63&point=FF2E63&area=false&hide_border=false&border=FF2E63&height=350&border_radius=15" alt="Han's Contribution Graph" />
-</div>
