@@ -26,7 +26,7 @@
 
 <div style="border-radius: 20px; overflow: hidden; background: #0D1117; width: 100%; box-shadow: 0 0 0 3px #FF2E63;">
 <img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=hanzic-in&theme=react-dark&bg_color=0D1117&color=FF2E63&line=FF2E63&point=FF2E63&area=false&hide_border=false&height=300&animation=true" 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=hanzic-in&theme=react-dark&bg_color=0D1117&color=FF2E63&line=FF2E63&point=FF2E63&area=false&hide_border=true&height=300&animation=true" 
   width="100%" 
 />
 </div>
