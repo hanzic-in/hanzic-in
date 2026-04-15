@@ -21,8 +21,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2E63,100:0D1117&height=100&section=footer"/>
 </div>
 
-<br />
-
 ## //  About Me
 
 I believe in learning through execution rather than theory. My journey is defined by building things I don't fully understand yet and iterating until they become seamless experiences. From modular web apps to EDM production, I'm constantly pushing the boundaries of what I can create, focusing on building products that solve real-world problems.
@@ -48,7 +46,8 @@ I believe in learning through execution rather than theory. My journey is define
   </a>
 </div>
 
+<br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hanzic-in&theme=react-dark&bg_color=0D1117&color=FF2E63&line=FF2E63&point=FFFFFF&area=true&hide_border=true" width="100%" />
+  <img src="" width="100%https://github-readme-activity-graph.vercel.app/graph?username=hanzic-in&theme=react-dark&bg_color=0D1117&color=FF2E63&line=FF2E63&point=FF2E63&area=false&hide_border=false&border=FF2E63&height=350&border_radius=15" alt="Han's Contribution Graph" />
 </div>
