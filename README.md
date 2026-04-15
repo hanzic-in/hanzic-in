@@ -48,3 +48,7 @@ I believe in learning through execution rather than theory. My journey is define
   </a>
 </div>
 
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hanzic-in&theme=react-dark&bg_color=0D1117&color=FF2E63&line=FF2E63&point=FFFFFF&area=true&hide_border=true" width="100%" />
+</div>
