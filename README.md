@@ -46,10 +46,12 @@ I believe in learning through execution rather than theory. My journey is define
 <br />
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,cpp,kotlin" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,kotlin,dart,python,cpp,cs&perline=9" />
   <br />
-  <img src="https://skillicons.dev/icons?i=react,firebase,godot,flutter,dart,git,cloudflare" />
+  <img src="https://skillicons.dev/icons?i=react,nuxt,flutter,nodejs,firebase,godot,nginx,mysql,mongodb,git,cloudflare&perline=11" />
 </div>
+
+
 
 <br />
 
