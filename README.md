@@ -62,9 +62,8 @@ I believe in learning through execution rather than theory. My journey is define
 
 <br />
 
-
-<div align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31g3dlsq7bmiqhqbq3rshll75bjm&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=true&mode=dark&bar_color=ff0000&bar_color_cover=true" />
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31g3dlsq7bmiqhqbq3rshll75bjm&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31g3dlsq7bmiqhqbq3rshll75bjm&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=true&bar_color=53b14f&bar_color_cover=false&mode=dark">
   </a>
-</div>
+</p>
