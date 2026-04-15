@@ -48,6 +48,3 @@ I believe in learning through execution rather than theory. My journey is define
   </a>
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/hanzic-in/hanzic-in/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</div>
