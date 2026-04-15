@@ -1,18 +1,69 @@
+<h1 align="center">
+  <span style="background: linear-gradient(135deg, #6c5ce7, #ff7675); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    Solving Problems by Building Things.
+  </span>
+</h1>
 
-## Hi there 👋
-<img src="chisa-wuthering-waves-gif-chisa-wuthering-waves-anime-temuka.gif" width="100%"/>
-<img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=20&center=true&vCenter=true&width=500&lines=Flutter+Developer;Still+Learning;Building+Something+Cool"/>
-<!--
-**hanzic-in/hanzic-in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">I'm <b>Han</b>, a Startup Founder & Product Creator focused on modular development.</p>
+
+
+<div align="center">
+  <img src="chisa-wuthering-waves-gif-chisa-wuthering-waves-anime-temuka.gif" width="100%"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=FF2E63&center=true&vCenter=true&width=800&lines=Turning+caffeine+into+modular+code;Building+products+that+solve+problems;Bridging+design+and+functionality" />
+</div>
+
+
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:FF2E63&height=120&section=header"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=hanzic-in&theme=dark&background=0D1117&ring=FF2E63&fire=FF2E63&currStreakLabel=FF2E63&sideNums=FF2E63&sideLabels=FF2E63&dates=888888" width="700"/>
+</div>
+
+<div align="center">
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=hanzic-in&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF2E63&icon_color=FF2E63&text_color=FFFFFF" 
+    width="700"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2E63,100:0D1117&height=120&section=footer"/>
+</div>
+
+## //  About Me
+
+I believe in learning through execution rather than theory. My journey is defined by building things I don't fully understand yet and iterating until they become seamless experiences. From modular web apps to EDM production, I'm constantly pushing the boundaries of what I can create, focusing on building products that solve real-world problems.
+
+## : :  Current Focus
+
+- Flutter UI & layout  
+- Engineering Next-Gen Community Platforms
+
+<br>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,cpp,kotlin" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=react,firebase,godot,flutter,dart,git,cloudflare" />
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31g3dlsq7bmiqhqbq3rshll75bjm&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=true&mode=dark&bar_color=ff0000&bar_color_cover=true" />
+  </a>
+</div>
