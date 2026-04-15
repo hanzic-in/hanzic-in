@@ -18,15 +18,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:FF2E63&height=80&section=header"/>
 
   <div style="display: flex; justify-content: space-between;">
-    <img src="https://streak-stats.demolab.com?user=hanzic-in&theme=dark&background=0D1117&ring=FF2E63&fire=FF2E63&currStreakLabel=FF2E63&sideNums=FF2E63&sideLabels=FF2E63&dates=888888&hide_border=true" width="49%"/>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hanzic-in&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF2E63&icon_color=FF2E63&text_color=FFFFFF" width="49%"/>
+    <img src="https://streak-stats.demolab.com?user=hanzic-in&theme=dark&background=0D1117&ring=FF2E63&fire=FF2E63&currStreakLabel=FF2E63&sideNums=FF2E63&sideLabels=FF2E63&dates=888888&hide_border=true&animation=true&rand=123" width="49%"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hanzic-in&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF2E63&icon_color=FF2E63&text_color=FFFFFF&animation=true&rand=123" width="49%"/>
   </div>
 
   <br />
 
 <div style="border-radius: 20px; overflow: hidden; background: #0D1117; width: 100%; box-shadow: 0 0 0 3px #FF2E63;">
 <img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=hanzic-in&theme=react-dark&bg_color=0D1117&color=FF2E63&line=FF2E63&point=FF2E63&area=false&hide_border=true&height=300&animation=true" 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=hanzic-in&theme=react-dark&bg_color=0D1117&color=FF2E63&line=FF2E63&point=FF2E63&area=false&hide_border=true&height=300&animation=true&rand=123" 
   width="100%" 
 />
 </div>
